@@ -1,6 +1,8 @@
 # demo-clase
 Este es un demo para la clase del sábado 25 de agosto
 
+---
+# Este es un nuevo cambio 
 
 # Esta es una sección 
 ## Subsección
@@ -17,4 +19,5 @@ blablablA
 ---
 esta palabra esta en negrilla **negrilla**.
 
-esta palabra esta en itálica *itálica*.
+esta palabra esta en itálica *itálica*
+
